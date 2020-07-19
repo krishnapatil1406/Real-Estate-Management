@@ -6,8 +6,8 @@ The user also gets functionality to check the pricing of properties, houses, etc
 
 Technology Stack :-
 
-*HTML
-*CSS
-*Javascript
-*Bootstrap
-*Django
+* HTML
+* CSS
+* Javascript
+* Bootstrap
+* Django
