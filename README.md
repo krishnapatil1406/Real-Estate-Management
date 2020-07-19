@@ -4,7 +4,7 @@ This is a web-based project which helps a real estate company to manage its busi
 It has admin functionalities like adding and deleting properties, houses, etc. 
 The user also gets functionality to check the pricing of properties, houses, etc.
 
-Technology Stack:-
+Technology Stack :-
 
 HTML
 CSS
